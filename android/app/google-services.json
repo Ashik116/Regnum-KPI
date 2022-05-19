@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174069628974",
+    "project_id": "regnum-kpi-caccf",
+    "storage_bucket": "regnum-kpi-caccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174069628974:android:f1b7637575f96beb369fbf",
+        "android_client_info": {
+          "package_name": "com.regnum.kpi_app.ashik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174069628974-2lthbj34uikiikq2rphbv9elu6v1fhcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCnGp_AMvO4nQY6M0vLxpz73MAVjItPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174069628974-2lthbj34uikiikq2rphbv9elu6v1fhcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
